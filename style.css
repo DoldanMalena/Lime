@@ -1,0 +1,43 @@
+.indexCSS {
+    background-color: skyblue;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    box-shadow:16px 16px 8px slategray ;
+}
+
+p{
+    font-size: 25pt;
+    text-align: center;
+    color: rgb(85, 79, 79);
+}
+ 
+h1{
+    text-align: center;
+    font-size: 40pt;
+}
+.topnav {
+    background-color: rgb(188,188,188);
+    overflow: hidden;
+}
+.topnav a{
+    cursor: pointer;
+    float: left;
+    color: black(49, 6, 6);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.topnav a:hover{
+    background-color: snow;
+    color: black;
+}
+
+
+
