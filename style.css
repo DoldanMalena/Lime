@@ -38,3 +38,26 @@ h1{
     background-color: snow;
     color: black;
 }
+
+
+ @media screen and (max-device-width:60em)
+ {
+    /*.indexCSS }
+    display: grid;
+    grid-template-columns: 1fr;
+ } */
+ .clothes{
+     width: 15em;
+ }
+ .row {
+     display: flex;
+     flex-direction: column;
+ }
+ img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 20em;
+ }
+
+
